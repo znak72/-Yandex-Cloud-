@@ -107,3 +107,4 @@ output "external_ip_address_vm_1" {
 2. terraform init
 3. В директории создаются:
    ![](https://github.com/znak72/-Yandex-Cloud-/blob/main/1.jpg)
+   
