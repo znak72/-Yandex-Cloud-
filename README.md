@@ -110,4 +110,32 @@ output "external_ip_address_vm_1" {
 
    
      ![](https://github.com/znak72/-Yandex-Cloud-/blob/main/2.jpg)
-   
+
+   ключ: cat ~/.ssh/id_rsa.pub
+
+terraform apply :
+
+
+ ![](https://github.com/znak72/-Yandex-Cloud-/blob/main/3.jpg)
+
+
+sudo nano /etc/ansible/hosts :
+
+ ![](https://github.com/znak72/-Yandex-Cloud-/blob/main/4.jpg)
+
+ nano ./playbook.yml:
+
+ ![](https://github.com/znak72/-Yandex-Cloud-/blob/main/5.jpg)
+
+ ansible-playbook playbook.yml:
+
+  ![](https://github.com/znak72/-Yandex-Cloud-/blob/main/6.jpg)
+
+  Из браузера:
+
+   ![](https://github.com/znak72/-Yandex-Cloud-/blob/main/7.jpg)
+
+
+
+
+
