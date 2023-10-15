@@ -106,4 +106,4 @@ output "external_ip_address_vm_1" {
 1. В директории проекта создать файл main.tf с настройками провайдера. 
 2. terraform init
 3. В директории создаются:
-![img](https://github.com/znak72/-Yandex-Cloud/blob/main/1.jpg)
+   ![](https://github.com/znak72/-Yandex-Cloud/blob/main/1.jpg)
